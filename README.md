@@ -10,7 +10,7 @@ In this repository I share **my source code** of all the projects from **[Udacit
   <tr>
     <th>
       <p align="center">
-           <a href="./Project_1_Histogram_Filter_in_Python/writeup.ipynb"><img src="./Project_1_Histogram_Filter_in_Python/img/Proj_1.JPG" alt="Overview" width="60%" height="60%"></a>
+           <a href="./Project_1_Histogram_Filter_in_Python/writeup.ipynb"><img src="./Project_1_Histogram_Filter_in_Python/img/Proj_1.JPG" alt="Overview" width="100%" height="100%"></a>
            <br>P1: Histogram Filter
            <br><a href="./Project_1_Histogram_Filter_in_Python" name="p1_code">(project)</a>
       </p>
@@ -22,13 +22,13 @@ In this repository I share **my source code** of all the projects from **[Udacit
         </p>
     </th>
        <th><p align="center">
-           <a href="./Project_3_Translate_Python_to_C++/simulate.cpp"><img src="./Project_3_Translate_Python_to_C++/img/Python_C++.JPG" alt="Overview" width="60%" height="60%"></a>
+           <a href="./Project_3_Translate_Python_to_C++/simulate.cpp"><img src="./Project_3_Translate_Python_to_C++/img/Python_C++.JPG" alt="Overview" width="100%" height="100%"></a>
            <br>P3: Python to C++
            <br><a href="./Project_3_Translate_Python_to_C++" name="p3_code">(project)</a>
         </p>
     </th>
         <th><p align="center">
-           <a href="./Project_4_Optimize_Histogram_Filter/main.cpp"><img src="./Project_4_Optimize_Histogram_Filter/img/Optimize.JPG"                         alt="Overview" width="60%" height="60%"></a>
+           <a href="./Project_4_Optimize_Histogram_Filter/main.cpp"><img src="./Project_4_Optimize_Histogram_Filter/img/Optimize.JPG"                         alt="Overview" width="100%" height="100%"></a>
            <br>P4: Optimize Histogram Filter
            <br><a href="./Project_4_Optimize_Histogram_Filter" name="p4_code">(project)</a>
         </p>
@@ -36,19 +36,19 @@ In this repository I share **my source code** of all the projects from **[Udacit
   </tr>
   <tr>
     <th><p align="center">
-           <a href="./Project_5_Route_Planner/project_notebook.ipynb"><img src="./Project_5_Route_Planner/img/Search.JPG"                         alt="Overview" width="60%" height="60%"></a>
+           <a href="./Project_5_Route_Planner/project_notebook.ipynb"><img src="./Project_5_Route_Planner/img/Search.JPG"                         alt="Overview" width="100%" height="100%"></a>
            <br>P5: Route Planner
            <br><a href="./Project_5_Route_Planner" name="p5_code">(project)</a>
         </p>
     </th>
         <th><p align="center">
-           <a href="./Project_6_Reconstruction_Trajectories/Reconstructing Trajectories.ipynb"><img src="./Project_6_Reconstructin_Trajectories/img/Motion.JPG"                         alt="Overview" width="60%" height="60%"></a>
+           <a href="./Project_6_Reconstruction_Trajectories/Reconstructing Trajectories.ipynb"><img src="./Project_6_Reconstruction_Trajectories/img/Motion.JPG"                         alt="Overview" width="100%" height="100%"></a>
            <br>P6: Reconstruction_Trajectories
            <br><a href="./Project_6_Reconstruction_Trajectories" name="p6_code">(project)</a>
         </p>
     </th>
     <th><p align="center">
-           <a href="./Project_7_Traffic_Light/Traffic_Light_Classifier.ipynb"><img src="./Project_7_Traffic_Light/img/Traffic.JPG"                         alt="Overview" width="60%" height="60%"></a>
+           <a href="./Project_7_Traffic_Light/Traffic_Light_Classifier.ipynb"><img src="./Project_7_Traffic_Light/img/Traffic.JPG"                         alt="Overview" width="100%" height="100%"></a>
            <br>P7: Traffic Light Classifier
            <br><a href="./Project_7_Traffic_Light" name="p7_code">(project)</a>
         </p>
