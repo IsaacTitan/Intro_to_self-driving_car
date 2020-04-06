@@ -22,7 +22,7 @@ In this repository I share **my source code** of all the projects from **[Udacit
         </p>
     </th>
        <th><p align="center">
-           <a href="./Project_3_Translate_Python_to_C++/simulate.cpp"><img src="./Project_3_Translate_Python_to_C++/img/Python_C++.JPG" alt="Overview" width="100%" height="100%"></a>
+           <a href="./Project_3_Translate_Python_to_C++"><img src="./Project_3_Translate_Python_to_C++/img/Python_C++.JPG" alt="Overview" width="100%" height="100%"></a>
            <br>P3: Python to C++
            <br><a href="./Project_3_Translate_Python_to_C++" name="p3_code">(project)</a>
         </p>
@@ -42,7 +42,7 @@ In this repository I share **my source code** of all the projects from **[Udacit
         </p>
     </th>
         <th><p align="center">
-           <a href="./Project_6_Reconstruction_Trajectories/Reconstructing Trajectories.ipynb"><img src="./Project_6_Reconstruction_Trajectories/img/Motion.JPG"                         alt="Overview" width="100%" height="100%"></a>
+           <a href="./Project_6_Reconstruction_Trajectories/Reconstructing Trajectories.ipynb"><img src="./Project_6_Reconstruction_Trajectories/img/Motion.JPG"                         alt="Overview" width="60%" height="60%"></a>
            <br>P6: Reconstruction_Trajectories
            <br><a href="./Project_6_Reconstruction_Trajectories" name="p6_code">(project)</a>
         </p>
