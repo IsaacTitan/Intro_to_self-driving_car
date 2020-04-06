@@ -28,7 +28,7 @@ In this repository I share **my source code** of all the projects from **[Udacit
         </p>
     </th>
         <th><p align="center">
-           <a href="./Project_4_Optimize_Histogram_Filter/main.cpp"><img src="./Project_4_Optimize_Histogram_Filter/img/Optimize.JPG"                         alt="Overview" width="100%" height="100%"></a>
+           <a href="./Project_4_Optimize_Histogram_Filter/optimized_code/main.cpp"><img src="./Project_4_Optimize_Histogram_Filter/img/Optimize.JPG"                         alt="Overview" width="100%" height="100%"></a>
            <br>P4: Optimize Histogram Filter
            <br><a href="./Project_4_Optimize_Histogram_Filter" name="p4_code">(project)</a>
         </p>
@@ -64,7 +64,7 @@ In this repository I share **my source code** of all the projects from **[Udacit
  - **Keywords:** Python, Localisation
  
 #### [P2 - Kalman Filter](Project_2_Kalman_Filter)
- - **Summary:** Using Kalman filters to smooth out the data to make more accurate predictions in object tracking.One of the most interesting benefits of Kalman filters is that they can give you insights into variables that you cannot directly measured. Although lidar does not directly give velocity information, the Kalman filter can infer velocity from the lidar measurements.
+ - **Summary:** Using Kalman filters to smooth out the data to make more accurate predictions in object tracking. One of the most interesting benefits of Kalman filters is that they can give you insights into variables that you cannot directly measured. Although lidar does not directly give velocity information, the Kalman filter can infer velocity from the lidar measurements.
  - **Keywords:** Kalman Filter, Matrix Class
  
 #### [P3 - Translate Python to C++](Project_3_Translate_Python_to_C++)
